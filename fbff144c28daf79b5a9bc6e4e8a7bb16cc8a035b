@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ace114c_dbda1fe9",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 360,
+      "author": {
+        "id": 1000043
+      },
+      "writtenOn": "2016-06-19T15:51:45Z",
+      "side": 1,
+      "message": "dead space, not a big deal",
+      "range": {
+        "startLine": 360,
+        "startChar": 0,
+        "endLine": 360,
+        "endChar": 4
+      },
+      "revId": "fbff144c28daf79b5a9bc6e4e8a7bb16cc8a035b",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    }
+  ]
+}
